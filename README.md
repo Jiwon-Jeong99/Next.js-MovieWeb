@@ -1,2 +1,1 @@
-# Next.js-start
-원티드 온보딩 챌린지 10월 (10/4 - 10/15)
+# Next.js-Movie-Web
